@@ -23,4 +23,4 @@
 [Refund Tx 7](https://finder.terra.money/columbus-4/tx/08F93E6BF40B7226C3E717D67650D4696DC0F642D3A7E789C4C34D5B6262DEA7)
 
 ## Listd
-#[list])[./list.som/]
+#[list])[./list.json/]
